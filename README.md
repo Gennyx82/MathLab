@@ -8,5 +8,7 @@ This software is available in 3 languages.
 - Indonesian
 
 This software is built in Python and uses Claude.
+
 TikTok : @gennyxgfn
+
 YouTube : GennyxGFN
